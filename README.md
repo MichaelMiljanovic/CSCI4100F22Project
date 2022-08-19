@@ -119,7 +119,7 @@ Max Score | Requirement
 Max Score | Requirement
 --------- | ----------- 
 5.00 | demonstration of application
-5.00 | explanation and illustration of individual contribution to the project
+5.00 | explanation and presentation of individual contribution to the project
 
 ## How to Submit
 The project starter is available on GitHub Classroom, which really just has this README.md, since I want you to have freedom over this project.  There won’t be any starter code, you will start from scratch.  Accept the invite link for this project on GitHub Classroom, and use the new repository generated to store your project files.  This is setup as a group project, so one person can sign up, and others group members can also contribute to the project in that new repository.  
