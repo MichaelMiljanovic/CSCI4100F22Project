@@ -1,10 +1,15 @@
 # CSCI4100 Group Project
 
 Group members (3-5) (no Student IDs, only names and github usernames):
+
 1. 
+
 2. 
+
 3. 
+
 4. 
+
 5.
 
 ## Overview
@@ -109,7 +114,7 @@ Max Score | Requirement
 2.00 | list of functional requirements and how/where they are used
 2.00 | writing quality
 
-#### Individual Demo
+#### Individual Demo (10 marks total)
 
 Max Score | Requirement
 --------- | ----------- 
