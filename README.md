@@ -55,7 +55,7 @@ When evaluating this project, the instructor and the TAs will attempt to give a 
 The marking will occur in two phases.  The idea behind these phases is that your project should improve over time, so that the final product is comprehensive, professional, and production-ready.  It is hoped that your project will make a great portfolio item for when you apply for jobs.  The phased marking should also prevent groups from waiting until just a few days before the due date before starting their project.
 
 ### Formative Assessment
-The first phase of marking, performed by a TA(s) in week 10.  This will evaluate whether or not you have included the topics from the first 9 weeks of the course, which will be mostly objective, but will also include a small subjective mark describing the work done, the user interface design, and the code/design quality.  A rubric is listed below, so you can verify in advance which topics will be included.  The purpose of the pre-evaluation is to give you an idea of the quality of your project before the end of the term, so that you can make any adjustments necessary to get the grade you want.  This evaluation will be worth 10% of your final grade. Unless there is a significant issue of group equity, which should be noted in your README.md, all group members will receive the same grade for this evaluation.
+The first phase of marking will take place sometime during week 10, meaning that you will need to commit the first part of your project by the end of week 9.  This will evaluate whether or not you have included the topics from the first 9 weeks of the course, which will be mostly objective, but will also include a small subjective mark describing the work done, the user interface design, and the code/design quality.  A rubric is listed below, so you can verify in advance which topics will be included.  The purpose of the pre-evaluation is to give you an idea of the quality of your project before the end of the term, so that you can make any adjustments necessary to get the grade you want.  This evaluation will be worth 10% of your final grade. Unless there is a significant issue of group equity, which should be noted in your README.md, all group members will receive the same grade for this evaluation.
 
 #### Functional requirements (7 marks total)
 
@@ -78,7 +78,7 @@ Max Score | Requirement
 
 ### Summative Assessment
 
-The final phase of marking will be carried out exclusively by the instructor.  This evaluation will be carried out more strictly, with higher expectations. In addition to your fully developed application, you will need to submit a technical report as a group effort, and each member will need to submit a ~5 minute demonstration video presentation of the app individually. This evaluation will be worth 50% of your final grade, divided into 30% (mobile application), 10% (group report), and 10% (individual demo). Students who do not submit any individual demo will receive a 0 for all parts of the summative assessment.
+The final phase of marking will be carried out at the end of the course.  This evaluation will be carried out more strictly, with higher expectations. In addition to your fully developed application, you will need to submit a technical report as a group effort, and each member will need to submit a ~5 minute demonstration video presentation of the app individually. This evaluation will be worth 50% of your final grade, divided into 30% (mobile application), 10% (group report), and 10% (individual demo). Students who do not submit any individual demo will receive a 0 for all parts of the summative assessment.
 
 #### Functional requirements (5 marks total)
 
@@ -124,11 +124,11 @@ Max Score | Requirement
 ## How to Submit
 The project starter is available on GitHub Classroom, which really just has this README.md, since I want you to have freedom over this project.  There won’t be any starter code, you will start from scratch.  Accept the invite link for this project on GitHub Classroom, and use the new repository generated to store your project files.  This is setup as a group project, so one person can sign up, and others group members can also contribute to the project in that new repository.  
 
-The instructor and the TA(s) will use this repository to download the latest version of your project, along with other information (e.g. commit logs) available through Git, when they want to mark the project.
+The markers will use this repository to download the latest version of your project, along with other information (e.g. commit logs) available through Git, when they want to mark the project.
 
 _**Note:**  Only one of the group members will accept the GitHub Classroom invitation.  It is recommended that every member of the team verify the final repository on GitHub on submission day, so that everybody can be sure that the correct files were submitted and on time.  You should also clone the latest version into a fresh directory, and run it locally on your machine to ensure that it works without any unusual configuration._
 
-_**Note:**  Work equity will be evaluated using the Git commit logs for your project.  If you decide to work together which results in a misrepresentation of work equity in the commit logs, be sure to mention this in your `README.md`._
+_**Note:**  Work equity will be evaluated using the Git commit logs for your project.  If you decide to work together which results in a misrepresentation of work equity in the commit logs, be sure to mention this in your `README.md`. The instructor will handle all issues of uneven distribution of work on a case by case basis, which may involve adjustments to project grades as needed._
 
 To submit this project, please push all your work to your repository, and add the names of all group members names (but not their SIDs) and their corresponding GitHub usernames (so we can tell who made which commits) to the `README.md` file (at the top).
 
@@ -149,7 +149,7 @@ If you run into difficulty, you may wish to check out some of the following reso
 - https://github.com/flutter/samples/ - A repository containing some completed Flutter applications.
 - http://stackoverflow.com/ - A forum for asking questions about programming.  I bet you know this one already!
 
-Of course, you can always ask the TA for help!  However, learning how to find the answers out for yourself is not only more satisfying, but results in greater learning as well.
+Of course, you can always ask us for help!  However, learning how to find the answers out for yourself is not only more satisfying, but results in greater learning as well.
 
 ## How to Submit
 Create your flutter project, and copy it into this folder, commit, and then push your code to this repository to submit your major group project.
